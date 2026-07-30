@@ -21,7 +21,7 @@ I'm passionate about turning data into meaningful insights through **SQL**, **Po
 - Data cleaning in MySQL
 - SQL data transformations, queries and aggregations
 - Interactive Power BI dashboards
-- 
+  
 ---
 
 ### 🌍 Population by Age Analysis
@@ -29,15 +29,16 @@ I'm passionate about turning data into meaningful insights through **SQL**, **Po
 - Data cleaning in MySQL
 - Global demographic analysis
 - SQL queries and aggregations
-- Interactive Power BI dashboards
 - datamodelling 
-- 
+- Interactive Power BI dashboards
+
 ## Currently learning
 
 - Advanced SQL, Python and DAX
   
 
 ## Goals
+
 I'm building a professional portfolio to showcase my data analysis and business intelligence projects.
 
 Thanks for visiting my profile! 😊
