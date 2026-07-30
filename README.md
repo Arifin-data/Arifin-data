@@ -6,7 +6,7 @@
 
 Welcome to my GitHub!
 
-I'm passionate about turning data into meaningful insights through **SQL**,**Python** and data visualization in **Power BI**. I'm continuously expanding my knowledge by building practical projects and improving my analytical skills.
+I'm passionate about turning data into meaningful insights through **SQL**, **Python** and data visualization in **Power BI**. I'm continuously expanding my knowledge by building practical projects and improving my analytical skills.
 
 
 ## 🚀 Skills
