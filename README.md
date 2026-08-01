@@ -38,7 +38,9 @@ I'm passionate about turning data into meaningful insights through **SQL**, **Py
 - WHERE
 - ORDER BY
 - GROUP BY and aggregations
+- DESCRIBE
 - UPDATE/ALTER
+- MODIFY/ADD COLUMN
 - CASE expressions
 - Window Functions (ROW_NUMBER OVER PARTITION BY)
 - Common Table Expressions (CTEs)
