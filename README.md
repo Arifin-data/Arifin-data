@@ -24,7 +24,7 @@ I'm passionate about turning data into meaningful insights through **SQL**, **Py
 
 ---
 
-### 🌍 Population by Age Analysis
+### 🌍 World Population by Age Analysis
 
 - Data cleaning in MySQL
 - Global demographic analysis
