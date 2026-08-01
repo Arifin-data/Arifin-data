@@ -21,7 +21,7 @@ I'm passionate about turning data into meaningful insights through **SQL**, **Py
 - Data cleaning in MySQL
 - SQL data transformations, queries and aggregations
 - Interactive Power BI dashboards
-  
+
 ---
 
 ### 🌍 Population by Age Analysis
@@ -31,6 +31,19 @@ I'm passionate about turning data into meaningful insights through **SQL**, **Py
 - SQL queries and aggregations
 - datamodelling 
 - Interactive Power BI dashboards
+
+### SQL techniques used
+
+- SELECT
+- WHERE
+- ORDER BY
+- GROUP BY and aggregations
+- UPDATE/ALTER
+- CASE expressions
+- Window Functions (ROW_NUMBER OVER PARTITION BY)
+- Common Table Expressions (CTEs)
+
+
 
 ## Currently learning
 
