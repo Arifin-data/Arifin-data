@@ -45,6 +45,15 @@ I'm passionate about turning data into meaningful insights through **SQL**, **Py
 - Window Functions (ROW_NUMBER OVER PARTITION BY)
 - Common Table Expressions (CTEs)
 
+---
+
+### 🍽️ Daily calorie supply
+
+- Data cleaning in Python
+- Global daily calorie supply analysis
+- Python queries and aggregations
+- datamodelling 
+- Interactive Power BI dashboards
 
 
 ## Currently learning
