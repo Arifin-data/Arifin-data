@@ -29,7 +29,7 @@ I'm passionate about turning data into meaningful insights through **SQL**, **Py
 - Data cleaning in MySQL
 - Global demographic analysis
 - SQL queries and aggregations
-- datamodelling 
+- Datamodelling 
 - Interactive Power BI dashboards
 
 ### SQL techniques used
@@ -52,7 +52,7 @@ I'm passionate about turning data into meaningful insights through **SQL**, **Py
 - Data cleaning in Python
 - Global daily calorie supply analysis
 - Python queries and aggregations
-- datamodelling 
+- Datamodelling 
 - Interactive Power BI dashboards
 
 
